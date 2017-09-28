@@ -12,4 +12,5 @@ public class WeatherTest {
         Weather weather = new Weather();
         assertTrue("someLibraryMethod should return 'true'", weather.someLibraryMethod());
     }
+    
 }
